@@ -8,7 +8,7 @@ L'objectif de ce TP était de déployer une application web HTML simple en utili
 
 - Commencez par créer le répertoire `my-first-static-web-app` sur GitHub.
 
-![Capture d'écran du Répertoire GitHub](/TP_img/Repertoire%20GitHub.png)
+![Capture d'écran du Répertoire GitHub](/TP_img/Répertoire%20GitHub.png)
 
 ## Étape 2 : Lancement de la Sandbox Azure
 
@@ -30,7 +30,7 @@ L'objectif de ce TP était de déployer une application web HTML simple en utili
 
 - Effectuez une modification sur GitHub et observez son impact.
 
-![Capture d'écran du Résultat Obtenu](/TP_img/page_apres_modification.png)
+![Capture d'écran du Résultat Obtenu](/TP_img/page_after_modification.png)
 
 ## Étape 5 : Suppression de l'Application
 
