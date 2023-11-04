@@ -34,7 +34,7 @@ Le but de ce projet était de déployer une application web HTML simple en utili
 
 - Effectué une modification sur GitHub et observé son impact.
 
-![Capture du Résultat Obtenu](lien_vers_la_capture)
+![Capture du Résultat Obtenu](/TP_img/page_after_modification.png)
 
 ## Suppression de l'Application
 
