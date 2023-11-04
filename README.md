@@ -1,45 +1,41 @@
-# Rapport de Projet : Déploiement d'une Application Web avec Azure Cloud
+# Rapport TP : Déploiement d'une Application Web avec Azure Cloud
 
 ## Objectif
 
-Le but de ce projet était de déployer une application web HTML simple en utilisant Azure Cloud.
+L'objectif de ce TP était de déployer une application web HTML simple en utilisant Azure Cloud.
 
 ## Étape 1 : Création d'un Répertoire GitHub
 
-- A créé le répertoire `my-first-static-web-app`.
+- Commencez par créer le répertoire `my-first-static-web-app` sur GitHub.
 
-![Capture du Répertoire GitHub](/TP_img/Répertoire%20GitHub.png)
+![Capture d'écran du Répertoire GitHub](/TP_img/Repertoire%20GitHub.png)
 
 ## Étape 2 : Lancement de la Sandbox Azure
 
-- Accès à la Sandbox Azure et ouverture du portail Azure.
+- Accédez à la Sandbox Azure et ouvrez le portail Azure.
 
 ## Étape 3 : Création d'une Web App sur Azure
 
-- Mise en place d'une application web avec les paramètres spécifiés.
-- Explication du rôle du "groupe de ressources".
+- Configurez une application web en utilisant les paramètres spécifiés (voir l'image).
 
-![Capture des Ressources Azure](/TP_img/Ressources%20Azure.png)
+- Un "groupe de ressources" dans Azure est un conteneur logique qui regroupe les ressources associées à votre application. Il facilite la gestion, le suivi et la facturation de ces ressources en les maintenant organisées et isolées des autres ressources Azure. En d'autres termes, il sert de cadre pour gérer et contrôler les différentes composantes de votre application web de manière efficace.
 
-## Configuration de l'Application Web
+![Capture d'écran des Ressources Azure](/TP_img/Ressources%20Azure.png)
 
-- Sélection de `html` dans le champ "Build Presets".
-- Emplacement défini sur `./src`.
-- Le champ "Api" est resté vide.
-- Saisie de `./src` dans le dernier champ.
+## Capture de la Page en Production
 
-![Capture de la Page en Production](/TP_img/Page%20en%20Production.png)
+![Capture d'écran de la Page en Production](/TP_img/Page%20en%20Production.png)
 
-## Modification du Code
+## Étape 4 : Modification du Code
 
-- Effectué une modification sur GitHub et observé son impact.
+- Effectuez une modification sur GitHub et observez son impact.
 
-![Capture du Résultat Obtenu](/TP_img/page_after_modification.png)
+![Capture d'écran du Résultat Obtenu](/TP_img/page_apres_modification.png)
 
-## Suppression de l'Application
+## Étape 5 : Suppression de l'Application
 
-- Suppression du groupe de ressources pour arrêter les frais.
+- Supprimez le groupe de ressources pour arrêter les frais.
 
 ## Conclusion
 
-Ce projet a fourni une expérience pratique dans le déploiement d'une application web en utilisant Azure Cloud.
+Ce TP a offert une expérience pratique dans le déploiement d'une application web en utilisant Azure Cloud. Il a illustré le processus, de la création d'un répertoire GitHub au déploiement de l'application sur Azure, mettant en avant l'importance de gérer efficacement les ressources pour contrôler les coûts.
